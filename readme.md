@@ -47,6 +47,7 @@ This project requires a recent version of Node.js (>= 14.17).
 3. `npm install`
 4. `npm run dev` to test locally
 5. `npm run deploy` to deploy to vercel 💪
+6. `vercel --prod` to deploy to vercel production
 
 I tried to make configuration as easy as possible — All you really need to do to get started is edit `rootNotionPageId`.
 
