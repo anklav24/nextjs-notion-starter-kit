@@ -1,3 +1,13 @@
+/* My custom changes */
+
+.light-mode .notion-asset-object-fit {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.dark-mode .notion-asset-object-fit {
+  background-color: rgba(47, 52, 55, 1);
+}
+
 /* prism theme adjustments */
 
 .notion-code {
