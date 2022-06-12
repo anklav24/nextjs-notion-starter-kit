@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'anklav-code',
-  domain: 'anklav-code.duckdns.org',
+  domain: 'anklavcode.duckdns.org',
   author: 'Aleksandr Lobanov',
 
   // open graph metadata (optional)
