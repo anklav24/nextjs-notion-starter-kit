@@ -42,7 +42,8 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/resume': 'bfb7f09dce924d1a813058126697a74f'
+    '/resume': 'bfb7f09dce924d1a813058126697a74f',
+    '/about': '9ad2883d5733403ca93998bdcf3ecb25'
   },
   // pageUrlOverrides: null,
 
@@ -51,13 +52,17 @@ export default siteConfig({
   // navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
-     {
-       title: 'Home',
-       pageId: '1ceeedcb355648d0b18f8da0e0345915'
-     },
-     {
-       title: 'Resume',
-       pageId: 'bfb7f09dce924d1a813058126697a74f'
-     }
-   ]
+    {
+      title: 'Home',
+      pageId: '1ceeedcb355648d0b18f8da0e0345915'
+    },
+    {
+      title: 'Resume',
+      pageId: 'bfb7f09dce924d1a813058126697a74f'
+    },
+    {
+      title: 'About',
+      pageId: '9ad2883d5733403ca93998bdcf3ecb25'
+    }
+  ],
 })
