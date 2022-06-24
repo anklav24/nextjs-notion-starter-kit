@@ -7,6 +7,12 @@
  * places to add some flare.
  */
 
+ /* My custom css */
+
+.notion-block-8607c80c2d8b423aae44649047d88e06 {
+  text-align: center;
+}
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
