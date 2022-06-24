@@ -33,7 +33,7 @@ export const FooterImpl: React.FC = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright 2022 {config.author}</div>
-      <div className={styles.copyright}><a target="_blank" rel="noopener noreferrer" className="notion-link" href="https://bit.ly/3MCEug4">Found an error? Fill free to comment</a></div>
+      <div className={styles.copyright}><a target="_blank" rel="noopener noreferrer" className="notion-link" href="https://bit.ly/3MCEug4">Found an error? Feel free to comment!</a></div>
      
 
       {/* <div className={styles.settings}>
